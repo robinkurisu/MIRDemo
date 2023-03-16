@@ -1,0 +1,9 @@
+{
+    "script_entry" : "demo.lua",
+    "display_name" : "MIR Demo",
+    "author" : "MIR Group",
+    "version" : "1.0.0",
+    "icon" : "icon.png",
+    "search_tags" : "help;api;",
+    "script_uuid" : "f6864f0d-6666-7776-ba6b-5d651c8a9129"
+}
